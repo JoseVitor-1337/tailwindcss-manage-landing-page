@@ -1,1 +1,1 @@
-# tailwindcss-manage-landing-page
+# tailwind-css-dashboard-project
